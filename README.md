@@ -1,14 +1,13 @@
- # My portfolio Website
+ # Toy-problems-prerequisites
 
- Checkout my portfolio website.
+ 
 
-#### By **Ohthebrave** created on, 17th Sept 2023
+#### By **Ohthebrave** created on, 24th Sept 2023
 
 
 ## Table of Content
 
 - [Description](#description)
-- [Behavior of the website](#siteBehavior)
 - [Development and set up](#setUp)
 - [Prerequisites](#Prerequisites)
 - [Live link](#Live-Link)
@@ -17,32 +16,30 @@
 - [Authors Info](#Authors-info)
 
 ## Description
+Challenge 1: Student Grade Generator (Toy Problem)
 
+Challenge 2: Speed Detector (Toy Problem)
 
-## Behaviour of the website
-### View
-+ The navbar items take you to a specific location on the page
-+ The website is visually appealing
-
+Challenge 3: Net Salary Calculator (Toy Problem)
 
 ## Development and Setup.
 
 ### prerequisites
-+ First clone the project to your computer. ```git clone <repo url>```
-+ Ensure you have text editor such as Vs code installed.
++ First create a new repository
++ Ensure you have a text editor such as Vs code installed.
 + Extract the files and open them in the editor.
-+ Run the index.html file in your browser.
++ Run the calculator.js, generator.js, and detector.js files in the vs code.
 
 
 ### Live Link
-* The live link for the project is https://ohthebrave.github.io/Portfolio-website/
+
 
 ## Technology and Tools Used
 
-+ HTML5
-+ CSS5
++ Javascript
++ Js
 - Git - Version control
-- Vs code- Code editor
+- Vs code- Code Editor
 
 
 ## Licence
